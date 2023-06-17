@@ -1,9 +1,13 @@
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/G74LKP9zsfLInmz3H6/giphy.gif" width="100"/>
+</div>
   <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
-### Hi there 👋
+👋 Hi there! I'm ml engineer interested in MLOps. I have experience in developing the entire ML pipeline. I enjoy coding while having a cup of coffee.
+
 
 <!--
 **teeinn/teeinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

@@ -16,7 +16,7 @@
 	I have experience in developing the entire ml pipeline.
 </div>
 <div align=center>
-	I enjoy coding while having a cup of coffee.
+	☕🫖I enjoy coding while having a cup of coffee.🍩🥐
 </div>
 
   <div align=center>

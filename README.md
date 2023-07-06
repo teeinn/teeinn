@@ -8,16 +8,6 @@
 	<img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/gcp-4285F4?style=plastic&logo=googlecloud&logoColor=white">
 </div>
 
-<br/>
-<div align=center>
-	I'm ml engineer interested in MLOps. 
-</div>
-<div align=center>
-	I have experience in developing the entire ml pipeline.
-</div>
-<div align=center>
-	I enjoy coding while having a cup of coffee.
-</div>
 
   <div align=center>
 	

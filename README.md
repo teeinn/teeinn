@@ -4,7 +4,7 @@
 
 
 <div align = "center">
-Hello, I'm diane 🐦🐦<br/>
+Hello, I'm diane 🐦<br/>
 I'm ml engineer interested in mlops<br/>
 I enjoy coding while having a cup of coffee ☕<br/>
 📬 contact: yuuyuubong@gmail.com<br/>

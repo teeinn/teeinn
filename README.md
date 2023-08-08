@@ -5,7 +5,7 @@
 
 <div align = "center">
 Hello, I'm diane 🐦<br/>
-I'm ml engineer interested in mlops<br/>
+I'm ai engineer <br/>
 I enjoy coding while having a cup of coffee ☕<br/>
 📬 contact: yuuyuubong@gmail.com<br/>
 <br/>

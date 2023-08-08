@@ -4,8 +4,7 @@
 
 
 <div align = "center">
-Hello, I'm diane 🐦<br/>
-I'm AI engineer <br/>
+Hello, I'm diane, AI engineer 🐦<br/>
 I enjoy coding while having a cup of coffee ☕<br/>
 📬 contact: yuuyuubong@gmail.com<br/>
 <br/>

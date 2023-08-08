@@ -5,7 +5,7 @@
 
 <div align = "center">
 Hello, I'm diane 🐦<br/>
-I'm ai engineer <br/>
+I'm AI engineer <br/>
 I enjoy coding while having a cup of coffee ☕<br/>
 📬 contact: yuuyuubong@gmail.com<br/>
 <br/>

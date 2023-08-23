@@ -5,7 +5,6 @@
 
 <div align = "center">
 Hello, I'm diane <br/>
-I'm AI engineer interested in pipeline automation <br/>
 📬 contact: yuuyuubong@gmail.com<br/>
 <br/>
 

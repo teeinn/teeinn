@@ -5,6 +5,7 @@
 
 <div align = "center">
 Hello, I'm diane <br/>
+I'm mlops engineer <br/>
 📬 contact: yuuyuubong@gmail.com<br/>
 <br/>
 

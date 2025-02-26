@@ -4,12 +4,13 @@
 
 
 <div align = "center">
-Hello 🐎🐎🐎<br/>
+Hello 🐶<br/>
 I'm diana, software engineer <br/>
 I love to read, analyze, and think <br/>
-Simple is the best. <br/> 
-I live by this motto as a minimalist.<br/>
+Simple is the best  <br/> 
+I live by this motto as a minimalist<br/>
 📬 contact: yuuyuubong@gmail.com<br/>
+🐎🐎🐎
 <br/>
  
 

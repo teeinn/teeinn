@@ -4,8 +4,7 @@
 
 
 <div align = "center">
-Hello, I'm diana <br/>
-I'm software engineer <br/>
+Hello, I'm diana, software engineer <br/>
 📬 contact: yuuyuubong@gmail.com<br/>
 🐎🐎🐎
 <br/>

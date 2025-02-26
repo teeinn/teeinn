@@ -4,9 +4,9 @@
 
 
 <div align = "center">
-I'm diana. <br/>
-I love to read, analyze, and think. <br/>
-And I love all kinds of animals.<br/>
+Hello, I'm diana <br/>
+I love to read, analyze, and think <br/>
+And I love all kinds of animals <br/>
 📬 contact: yuuyuubong@gmail.com<br/>
 🐎🐎🐎
 <br/>

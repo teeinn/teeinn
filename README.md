@@ -10,6 +10,7 @@ I love to read, analyze, and think. <br/>
 'Simple is the best'  <br/> 
 I live by this motto as a minimalist.<br/>
 📬 contact: yuuyuubong@gmail.com<br/>
+I'm diana, software engineer. I love to read, analyze, and think. 'Simple is the best', I live by this motto as a minimalist. I am currently interested in building CI/CD pipelines and am refining my career path towards server and operations.
 <br/>
  
 

@@ -4,7 +4,9 @@
 
 
 <div align = "center">
-Hello, I'm diana, software engineer <br/>
+I'm diana. <br/>
+I love to read, analyze, and think. <br/>
+And I love all kinds of animals.<br/>
 📬 contact: yuuyuubong@gmail.com<br/>
 🐎🐎🐎
 <br/>

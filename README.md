@@ -7,7 +7,7 @@
 Hello, I'm diana <br/>
 I'm software engineer <br/>
 📬 contact: yuuyuubong@gmail.com<br/>
-🐶 linkedin: https://www.linkedin.com/in/dainn-han
+🐶헥
 <br/>
  
 
